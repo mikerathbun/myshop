@@ -12,6 +12,8 @@ neovim = "*"
 pep8 = "*"
 pyflakes = "*"
 pylint = "*"
+pipenv = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
